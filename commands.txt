@@ -1,0 +1,24 @@
+1to3}java -jar eqube.jar -mo generateWormPDF -cl GUG-UAT -effectiveDate 02/03/2016 -tableName TradeSummaryExcp -storedProc GET_TradeSummaryExcp -userId 1 -xmlFileName TradeSummaryExcp.xml 
+
+4]java -jar eqube.jar -mo generateWormPDF -cl GUG-UAT -effectiveDate 02/03/2016 -tableName IOIException -storedProc GET_IOIException -userId -2 -xmlFileName IOIException.xml
+
+5 6]java -jar eqube.jar -mo generateWormPDF -cl GUG-UAT -effectiveDate 02/03/2016 -tableName IOIException -storedProc GET_IOIException -userId -2 -xmlFileName IndicationOfInterestReport.xml
+
+7]java -jar eqube.jar -mo generateWormPDF -cl GUG-UAT -effectiveDate 02/03/2016 -tableName TradeSummaryExcp -storedProc GET_TradeSummaryExcp -userId -2 -xmlFileName NASDAQAsof.xml
+
+8}java -jar eqube.jar -mo generateWormPDF -cl GUG-UAT -effectiveDate 02/03/2016 -tableName TradeSummaryExcp -storedProc GET_TradeSummaryExcp -userId -2 -xmlFileName TradeSummaryExcp.xml
+
+
+9]java -jar eqube.jar -mo generateWormPDF -cl GUG-UAT -effectiveDate 02/03/2016 -tableName TradeSummaryExcp -storedProc GET_TradeSummaryExcp -userId -2 -xmlFileName NASDAQAsof.xml
+
+10to12]java -jar eqube.jar -mo generateWormPDF -cl GUG-UAT -effectiveDate 02/03/2016 -tableName TradeSummaryExcp -storedProc GET_TradeSummaryExcp -userId -2 -xmlFileName TradeSummaryExcp.xml
+
+13 14]java -jar eqube.jar -mo generateWormPDF -cl GUG-UAT -effectiveDate 02/03/2016 -tableName TradeSummaryExcp -storedProc GET_TradeSummaryExcp -userId -2 -xmlFileName PriceDisImprovement.xml
+
+15]java -jar eqube.jar -mo generateWormPDF -cl GUG-UAT -effectiveDate 02/03/2016 -tableName TradeSummaryExcp -storedProc GET_TradeSummaryExcp -userId 1 -xmlFileName PropShotSellAffirm.xml
+	
+16]java -jar eqube.jar -mo generateWormPDF -cl GUG-UAT -effectiveDate 02/03/2016 -tableName TradeSummaryExcp -storedProc GET_TradeSummaryExcp -userId 1 -xmlFileName ShotSellAffirm.xml 
+
+17]java -jar eqube.jar -mo generateWormPDF -cl GUG-UAT -effectiveDate 02/03/2016 -tableName TradeSummaryExcp -storedProc GET_TradeSummaryExcp -userId 1 -xmlFileName PreMarketTradeExceptionsReport.xml
+
+18]java -jar eqube.jar -mo generateWormPDF -cl GUG-UAT -effectiveDate 02/03/2016 -tableName WashSalesPairExcp -storedProc GET_WashSalesPairExcp -userId 1 -xmlFileName WashSalesPairExcp.xml
